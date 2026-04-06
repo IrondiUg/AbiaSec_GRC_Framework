@@ -1,3 +1,4 @@
+![Slide1](https://github.com/user-attachments/assets/c2afedab-024b-4d10-a809-871ce51a2178)
 # AbiaSec-GRC-Framework
 ## Cybersecurity Governance, Risk & Compliance Blueprint for Abia State Government
 
