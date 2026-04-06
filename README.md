@@ -154,7 +154,7 @@ abia-grc-framework/
 - Compliance assessments
 ---
 
-![Slide14](https://github.com/user-attachments/assets/0dafe539-e108-46ee-b9d2-7c4e56a40468)
+![Slide14](https://github.com/user-attachments/assets/841be024-3d99-4498-b827-0bcdbcaa38dc)
 
 # Future Improvements
 - Integration with AI-driven threat detection  
