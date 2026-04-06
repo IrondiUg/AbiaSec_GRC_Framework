@@ -36,6 +36,11 @@ This project delivers a **full-scale GRC framework** to address these challenges
 - Communication Systems (Email, VoIP)  
 - Physical Data Centers & Network Infrastructure
 ##
+## Project Structure
+abia-grc-framework/ │ ├── README.md ├── LICENSE ├── docs/ │   ├── executive_summary.md │   ├── scope.md │   ├── critical_assets.md │   ├── risk_assessment.md │   ├── threat_model.md │ ├── policies/ │   ├── access_control_policy.md │   ├── data_protection_policy.md │   ├── incident_response_policy.md │   ├── acceptable_use_policy.md │   ├── password_policy.md │   ├── network_security_policy.md │   ├── cloud_security_policy.md │   ├── compliance_policy.md │   ├── backup_disaster_recovery.md │   ├── vendor_risk_management.md │ ├── framework/ │   ├── grc_model.md │   ├── governance_structure.md │   ├── risk_management_process.md │   ├── monitoring_strategy.md │   ├── compliance_plan.md │ ├── enforcement/ │   ├── enforcement_model.md │   ├── violation_classification.md │   ├── sanctions.md │   ├── incident_investigation.md │ ├── diagrams/ │   ├── grc_architecture.png │   ├── risk_lifecycle.png │   ├── governance_structure.png │ ├── templates/ │   ├── risk_register_template.xlsx │   ├── incident_report_template.docx │   ├── audit_checklist.xlsx │ └── tools/ ├── siem_recommendations.md ├── cloud_security_tools.md
+
+
+
 ## Top Cybersecurity Risks
 
 | Risk | Likelihood | Impact | Mitigation |
