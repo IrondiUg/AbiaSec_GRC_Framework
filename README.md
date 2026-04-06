@@ -1,6 +1,6 @@
 ![Slide1](https://github.com/user-attachments/assets/77fa17b4-c839-4b3c-9085-7484cceb4585)
 
-# AbiaSec-GRC-Framework
+# Abia_Sec-GRC-Framework
 ## Cybersecurity Governance, Risk & Compliance Blueprint for Abia State Government
 
 **AbiaSec GRC Framework** is a comprehensive, policy-driven cybersecurity architecture designed to secure the digital transformation of Abia State Government.  
