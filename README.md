@@ -45,3 +45,41 @@ This project delivers a **full-scale GRC framework** to address these challenges
 | Regulatory Non-Compliance | Medium | High | Audits, DPOs |
 | Cloud Misconfiguration | Medium | High | CSPM, secure baselines |
 | Phishing Attacks | High | Medium | Awareness training |
+##
+### Security Policies Implemented
+
+### Core Policies
+- Access Control Policy (RBAC, MFA, least privilege)  
+- Data Protection Policy (encryption, classification)  
+- Incident Response Policy (CIRT, SLA-based response)  
+- Acceptable Use Policy  
+- Password & Authentication Policy  
+- Network Security Policy  
+- Cloud Security Policy  
+- Compliance & Regulatory Policy  
+- Backup & Disaster Recovery Policy  
+- Vendor Risk Management Policy  
+
+## Risk Management Lifecycle
+1. Risk Identification  
+2. Risk Analysis  
+3. Risk Evaluation  
+4. Risk Treatment  
+5. Continuous Monitoring  
+
+## Monitoring & Detection
+- SIEM-based real-time monitoring  
+- Log analysis & anomaly detection  
+- Continuous compliance tracking  
+- Automated alerting systems  
+
+## Compliance Strategy
+- Quarterly internal audits  
+- Annual external audits  
+- Continuous compliance dashboards  
+- NDPA, GDPR, ISO 27001 alignment  
+
+##  Training & Awareness
+- Mandatory cybersecurity training (≥75% pass score)  
+- Phishing simulations  
+- Role-based training programs  
