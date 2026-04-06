@@ -14,3 +14,16 @@ It provides a **centralized governance model with decentralized execution**, ena
 - **Nwaejike Oluebube** – `nwaejikebube@gmail.com`
 
 **Date:** 26 March 2026  
+
+## Project Overview
+Abia State is undergoing rapid digitization across sectors such as:
+- Taxation systems  
+- Healthcare infrastructure  
+- Educational platforms  
+
+This transformation introduces:
+- Increased cyber threats  
+- Regulatory pressure (NDPA, GDPR)  
+- Governance and policy gaps  
+
+This project delivers a **full-scale GRC framework** to address these challenges.
