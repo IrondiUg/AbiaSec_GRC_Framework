@@ -96,3 +96,21 @@ This project delivers a **full-scale GRC framework** to address these challenges
 - Audit logs  
 - User activity monitoring  
 - Compliance assessments
+---
+
+# Future Improvements
+- Integration with AI-driven threat detection  
+- Automated compliance reporting  
+- Zero Trust Architecture implementation  
+- State-wide Security Operations Center (SOC)
+---
+
+# Contribution
+This project is designed as a **reference architecture** for government cybersecurity.  
+Contributions can include:
+- Policy improvements  
+- Tool integrations  
+- Automation scripts  
+- Compliance enhancements
+
+*“Cybersecurity is no longer optional - it is foundational to governance.”*
