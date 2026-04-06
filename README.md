@@ -80,14 +80,10 @@ abia-grc-framework/
 │   ├── risk_lifecycle.png
 │   ├── governance_structure.png
 │
-├── templates/
-│   ├── risk_register_template.xlsx
-│   ├── incident_report_template.docx
-│   ├── audit_checklist.xlsx
-│
-└── tools/
-    ├── siem_recommendations.md
-    ├── cloud_security_tools.md
+└── templates/
+    ├── risk_register_template.xlsx
+    ├── incident_report_template.docx
+    ├── audit_checklist.xlsx
 ```
 
 ## Top Cybersecurity Risks
