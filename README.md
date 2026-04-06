@@ -6,5 +6,5 @@
 
 It provides a **centralized governance model with decentralized execution**, enabling Ministries, Departments, and Agencies (MDAs) to **manage cyber risks, ensure regulatory compliance, and protect critical national data assets** while adopting modern technologies like **cloud computing, AI, and digital public services**.
 
----
-### Disclaimer: This framework was developed as part of a government-backed training program under the ThriveAbia initiative. It is a conceptual and educational project and has not been implemented in a live government environment.
+### Disclaimer
+This framework was developed as part of a government-backed training program under the ThriveAbia initiative. It is a conceptual and educational project and has not been implemented in a live government environment.
