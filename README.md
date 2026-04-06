@@ -46,9 +46,9 @@ This project delivers a **full-scale GRC framework** to address these challenges
 | Cloud Misconfiguration | Medium | High | CSPM, secure baselines |
 | Phishing Attacks | High | Medium | Awareness training |
 ##
-### Security Policies Implemented
 
-### Core Policies
+# Security Policies Implemented
+## Core Policies
 - Access Control Policy (RBAC, MFA, least privilege)  
 - Data Protection Policy (encryption, classification)  
 - Incident Response Policy (CIRT, SLA-based response)  
