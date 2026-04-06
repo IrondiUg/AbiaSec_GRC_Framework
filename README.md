@@ -82,4 +82,17 @@ This project delivers a **full-scale GRC framework** to address these challenges
 ##  Training & Awareness
 - Mandatory cybersecurity training (≥75% pass score)  
 - Phishing simulations  
-- Role-based training programs  
+- Role-based training programs
+
+# Policy Enforcement Framework
+
+## Violation Levels
+- **Minor** – Warning & retraining  
+- **Moderate** – Suspension & penalties  
+- **Major** – Termination & legal action  
+
+## Enforcement Tools
+- SIEM systems  
+- Audit logs  
+- User activity monitoring  
+- Compliance assessments
