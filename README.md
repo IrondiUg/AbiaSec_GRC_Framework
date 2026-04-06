@@ -30,6 +30,9 @@ This transformation introduces:
 
 This project delivers a **full-scale GRC framework** to address these challenges.
 ##
+
+![Slide5](https://github.com/user-attachments/assets/d09b69ab-a596-4928-8d5e-59af9902983b)
+
 ## Critical Assets Identified
 - Citizen Data Repositories (NIN, tax, health records)  
 - Financial & Payment Systems  
@@ -99,6 +102,7 @@ abia-grc-framework/
 | Phishing Attacks | High | Medium | Awareness training |
 ##
 
+![Slide10](https://github.com/user-attachments/assets/3378e731-d68c-41c2-8b2e-888acec858a9)
 # Security Policies Implemented
 ## Core Policies
 - Access Control Policy (RBAC, MFA, least privilege)  
@@ -136,8 +140,8 @@ abia-grc-framework/
 - Phishing simulations  
 - Role-based training programs
 
+![Slide13](https://github.com/user-attachments/assets/24b9f5e4-9b24-40b0-8b07-e46f07dc18ad)
 # Policy Enforcement Framework
-
 ## Violation Levels
 - **Minor** – Warning & retraining  
 - **Moderate** – Suspension & penalties  
@@ -149,6 +153,8 @@ abia-grc-framework/
 - User activity monitoring  
 - Compliance assessments
 ---
+
+![Slide14](https://github.com/user-attachments/assets/0dafe539-e108-46ee-b9d2-7c4e56a40468)
 
 # Future Improvements
 - Integration with AI-driven threat detection  
