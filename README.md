@@ -27,3 +27,21 @@ This transformation introduces:
 - Governance and policy gaps  
 
 This project delivers a **full-scale GRC framework** to address these challenges.
+##
+## Critical Assets Identified
+- Citizen Data Repositories (NIN, tax, health records)  
+- Financial & Payment Systems  
+- Identity & Access Management Systems (e.g., Active Directory)  
+- Cloud Platforms  
+- Communication Systems (Email, VoIP)  
+- Physical Data Centers & Network Infrastructure
+##
+## Top Cybersecurity Risks
+
+| Risk | Likelihood | Impact | Mitigation |
+|------|-----------|--------|-----------|
+| Data Breach | High | Severe | Encryption, RBAC, DLP |
+| Weak Policy Enforcement | High | High | Centralized governance |
+| Regulatory Non-Compliance | Medium | High | Audits, DPOs |
+| Cloud Misconfiguration | Medium | High | CSPM, secure baselines |
+| Phishing Attacks | High | Medium | Awareness training |
