@@ -88,7 +88,7 @@ abia-grc-framework/
 └── templates/
     ├── risk_register_template.xlsx
     ├── incident_report_template.docx
-    ├── audit_checklist.xlsx
+    └── audit_checklist.xlsx
 ```
 
 ## Top Cybersecurity Risks
