@@ -13,6 +13,7 @@ It provides a **centralized governance model with decentralized execution**, ena
 - **Irondi Ugochukwu** 
 - **Emmanuel Bright**
 - **Nwaejike Oluebube**
+
 **Date:** 26 March 2026  
 ##
 ## Project Overview
