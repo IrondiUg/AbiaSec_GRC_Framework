@@ -10,10 +10,9 @@ It provides a **centralized governance model with decentralized execution**, ena
 **This framework was developed as part of a government-backed training program under the ThriveAbia initiative. It is a conceptual and educational project and has not been implemented in a live government environment.**
 
 ## Authors
-- **Irondi Ugochukwu** – `irondiugochukwu48@gmail.com`
-- **Emmanuel Bright** – `emmanuelbrightijioma@gmail.com`
-- **Nwaejike Oluebube** – `nwaejikebube@gmail.com`
-
+- **Irondi Ugochukwu** 
+- **Emmanuel Bright**
+- **Nwaejike Oluebube**
 **Date:** 26 March 2026  
 ##
 ## Project Overview
